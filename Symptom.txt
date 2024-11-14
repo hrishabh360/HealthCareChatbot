@@ -1,0 +1,61 @@
+dischromic_patches
+nodal_skin_eruptions
+continuous_sneezing
+chills
+joint_pain
+stomach_pain
+acidity
+ulcers_on_tongue
+muscle_wasting
+spotting_urination
+restlessness
+patches_in_throat
+cough
+high_fever
+sunken_eyes
+breathlessness
+dehydration
+yellowish_skin
+dark_urine
+nausea
+pain_behind_the_eyes
+diarrhoea
+mild_fever
+yellowing_of_eyes
+congestion
+chest_pain
+neck_pain
+dizziness
+cramps
+bruising
+swollen_extremeties
+slurred_speech
+knee_pain
+hip_joint_pain
+muscle_weakness
+swelling_joints
+loss_of_balance
+unsteadiness
+weakness_of_one_body_side
+bladder_discomfort
+passage_of_gases
+drinking_excessively
+altered_sensorium
+belly_pain
+dischromic_patches
+family_history
+rusty_sputum
+lack_of_concentration
+receiving_unsterile_injections
+coma
+history_of_alcohol_consumption
+blood_in_sputum
+prominent_veins_on_calf
+blackheads  or scurring
+silver_like_dusting
+small_dents_in_nails or inflammatory_nails
+blister or red_sore_around_nose
+loss_of_interest or delayed_responses
+stress
+forgetfulness or quick temper
+
